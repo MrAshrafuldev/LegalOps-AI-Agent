@@ -15,10 +15,9 @@ An enterprise-grade AI Agent designed to streamline legal operations, contract a
 
 Watch the comprehensive video walkthrough demonstrating the system architecture, live legal contract querying, advanced RAG pipeline performance, and enterprise security features.
 
-[![LegalOps AI Agent Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID "Click to watch LegalOps AI Agent Walkthrough")
+[![LegalOps AI Agent Demo Video](https://img.youtube.com/vi/wDqI635JisY/hqdefault.jpg)](https://www.youtube.com/watch?v=wDqI635JisY "Click to watch LegalOps AI Agent Walkthrough")
 
-> 📌 **[Click here to watch the full 5+ minute video presentation on YouTube](https://[[www.youtube.com/watch?v=wDqI635JisY](https://www.youtube.com/watch?v=wDqI635JisY)](https://www.youtube.com/watch?v=wDqI635JisY))**
-
+> 📌 **[Click here to watch the full 5+ minute video presentation on YouTube](https://www.youtube.com/watch?v=wDqI635JisY)**
 ---
 
 ## ✨ Key Enterprise Features
