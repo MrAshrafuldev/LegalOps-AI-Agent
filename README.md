@@ -17,7 +17,7 @@ Watch the comprehensive video walkthrough demonstrating the system architecture,
 
 [![LegalOps AI Agent Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID "Click to watch LegalOps AI Agent Walkthrough")
 
-> 📌 **[Click here to watch the full 5+ minute video presentation on YouTube](https://[[www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=wDqI635JisY)](https://www.youtube.com/watch?v=wDqI635JisY))**
+> 📌 **[Click here to watch the full 5+ minute video presentation on YouTube](https://[[www.youtube.com/watch?v=wDqI635JisY](https://www.youtube.com/watch?v=wDqI635JisY)](https://www.youtube.com/watch?v=wDqI635JisY))**
 
 ---
 
